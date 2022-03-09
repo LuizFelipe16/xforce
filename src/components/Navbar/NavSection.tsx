@@ -12,7 +12,7 @@ export const NavSection = () => {
         <NavItem href="/" text="Home" />
         <NavItem href="/About" text="Sobre" />
         <NavItem href="/Pricing" text="Preços" />
-        <NavItem href="/Blog" text="Blogs" />
+        <NavItem href="/Blog" text="Blog" />
       </HStack>
     </>
   );

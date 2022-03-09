@@ -4,7 +4,7 @@
 
 # XForce
 
-<!-- ### Ignite Project! An application completely focused on understanding and seeing in practice how to apply different strategies and tools to improve overall performance.
+### Website for a fictional gym, developed with modern tools and applying full responsiveness, with full deployment.
 
 <br/>
 <br/>
@@ -21,15 +21,20 @@ The following tools were used in building the project:
 - 👉 [NextJS](https://nextjs.org)
 - 👉 [ReactJS](https://pt-br.reactjs.org/)
 - 👉 [TypeScript](https://www.typescriptlang.org/)
-- 👉 [React Virtualized](https://github.com/bvaughn/react-virtualized)
-- 👉 [JSON Server](https://www.npmjs.com/package/json-server)
-- 👉 [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- 👉 [React Icons](https://react-icons.github.io/react-icons/)
+- 👉 [Chakra UI](https://chakra-ui.com/guides/first-steps)
+- 👉 [Sass](https://sass-lang.com)
 
 <br/>
 
 <p align="center">
-  🤖 Project Status 🚀 Construction... 🤖
+  🤖 Project Status 🚀 Complete! 🤖
+  <br/>
+  <a align="center" href="https://xforce.vercel.app" target="_blank">
+    Access at the address: https://xforce.vercel.app
+  </a>
 </p>
+
 <br/>
 
 Getting Started
@@ -49,15 +54,12 @@ Features
 =================
 <br/>
 
-- ✅ Json Server API queries with fetch;
-- ✅ List all products;
-- ✅ Search products by a query using search input;
-- ✅ Format data before component is rendered;
-- ✅ Functions using hooks useCallback;
-- ✅ Dynamic Imports for laze loading;
-- ✅ Use Bundle Analyzer for understand critical points of application for deploy;
-- ✅ Break render of component with useMemo;
-- ✅ Use memo for specific components for break the Shallow Compare.
+- ✅ Interface developed with system Chakra UI design;
+- ✅ Responsiveness with mobile devices;
+- ✅ Drawer navigate for mobile device;
+- ✅ Opening whatsapp for direct contact;
+- ✅ Modern design;
+- ✅ Deploy in Vercel.
 
 <br/>
 
@@ -68,20 +70,20 @@ How to Install
 
 ```bash
 1. git clone
-2. cd performing-app
+2. cd xforce
 ```
 
 - Install the dependencies and start:
 
 ```bash
 3. yarn
-4. yarn start and yarn server
+4. yarn dev
 ```
 - or
 
 ```bash
 3. npm install
-4. npm run start and npm run server
+4. npm run dev
 ```
 
 - Have fun just like me while programming
@@ -89,15 +91,43 @@ How to Install
 <br/>
 
 Screen Shots
-================= -->
+=================
 
-- under construction...
+- Home
 
-<!-- - Users
+![ScreenShot](/public/git/home.png)
 
-![ScreenShot](/public/users.png)
+<br/>
 
-<br/> -->
+- Home Prices
+
+![ScreenShot](/public/git/home2.png)
+
+<br/>
+
+- Customer Review
+
+![ScreenShot](/public/git/home3.png)
+
+<br/>
+
+- About
+
+![ScreenShot](/public/git/about.png)
+
+<br/>
+
+- Prices
+
+![ScreenShot](/public/git/prices.png)
+
+<br/>
+
+- Fake Blog
+
+![ScreenShot](/public/git/blog.png)
+
+<br/>
 
 <br/>
 
